@@ -1,0 +1,5 @@
+{
+  "name": "Personal Finance Tracker",
+  "description": "A visually appealing web application to track your monthly income and expenses across various categories. Set your income, see your budget allocation, add transactions, and monitor your spending with an interactive dashboard and charts.",
+  "requestFramePermissions": []
+}
