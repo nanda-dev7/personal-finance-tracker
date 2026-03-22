@@ -3,7 +3,7 @@ import { ReactNode } from 'react';
 export interface Category {
   id: string;
   name: string;
-  percentage: number;
+  percentage: number;   
   color: string;
   icon: ReactNode;
   budget: number;
